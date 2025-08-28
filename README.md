@@ -26,12 +26,6 @@ The goal is to repeat the sequence of colors shown by the game. Each round gets 
 
 ---
 
-## 📷 Screenshot
-![Simon Game Screenshot](screenshot.png)  
-*(You can replace this with an actual screenshot of your game UI.)*  
-
----
-
 ## ▶️ How to Play
 1. Press any key to start the game.  
 2. Watch the sequence of colors highlighted by the game.  
